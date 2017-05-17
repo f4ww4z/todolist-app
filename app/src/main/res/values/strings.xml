@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <string name="text_inp">Enter new item</string>
+    <string name="but_add">Add</string>
+</resources>
